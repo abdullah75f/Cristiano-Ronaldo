@@ -46,3 +46,14 @@ body{
     animation-name:animatemodal ;
     animation-name: .4s;
 }
+
+#close-btn{
+    font-size:3rem;
+    
+}
+
+
+#close-btn:hover{
+    
+    
+}
