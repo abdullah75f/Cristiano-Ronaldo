@@ -30,12 +30,12 @@ body{
 }
 
 #modal{
-    background-color:white;
+    background-color:rgb(193, 188, 188);
     position:absolute;
     top:50%;
     left:50%;
     transform:translate(-50%, -50%);
-    width:200px;
+    width:510px;
     height:100px;
     padding:10px 20px;
     border-radius: 5px;
