@@ -10,5 +10,5 @@ let closeBtn = document.getElementById("close-btn");
 
 //Event listeners
 openBtn.addEventListener("click", function(){
-    
+    modalContainer.style.display="block";
 })
