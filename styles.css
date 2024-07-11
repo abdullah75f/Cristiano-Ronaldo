@@ -1,4 +1,8 @@
+/*Modal styling*/
+
 body{
     background: url(img/cr7.jpg)  ;
+    height:100vh;
+    position:relative;
    
 }
